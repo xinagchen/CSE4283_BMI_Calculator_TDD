@@ -16,3 +16,4 @@ BMI value and category (here, smallest allowable change is 0.1):
 - BMI between 25 t0 29.9 falls under Overweight
 - BMI 30 or higher falls under Obese
 ## Notes and Resources
+- **BMI Formula:** http://extoxnet.orst.edu/faqs/dietcancer/web2/twohowto.html
